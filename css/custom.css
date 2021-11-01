@@ -1,3 +1,3 @@
-/* build time:Wed Oct 13 2021 20:45:17 GMT+0800 (GMT+08:00)*/
+/* build time:Mon Nov 01 2021 21:48:19 GMT+0800 (GMT+08:00)*/
 @font-face{font-family:Heavy;src:url(/custom/Heavy.ttf)}body{font-family:Heavy}h1#site-title{font-family:Heavy,sans-serif}#page-header,#web_bg{-webkit-animation:imgblur 1.2s 1 ease-in-out;animation:imgblur 1.2s 1 ease-in-out}@keyframes imgblur{0%{filter:blur(5px)}100%{filter:blur(0)}}@-webkit-keyframes imgblur{0%{-webkit-filter:blur(5px)}100%{-webkit-filter:blur(0)}}.layout_post>#post{background:rgba(255,255,255,.5)}#aside_content .card-widget,#recent-posts>.recent-post-item,.layout_page>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post{background:rgba(255,255,255,.5)}
 /* rebuild by neat */
